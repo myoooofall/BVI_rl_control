@@ -1,5 +1,6 @@
 # Unitree RL GYM
-It is my Graduation Project ,which is forked by unitree_rl_gym. It is now an unfinished version,waiting for my effort to the high level navigation driven by llm agent.However , it is difficult.
+It is my Graduation Project ,which is forked by unitree_rl_gym. It is now an unfinished version,waiting for my effort to the high level navigation driven by llm agent.However , it is difficult.  
+
 This is a simple example of using Unitree Robots for reinforcement learning, including Unitree Go2, H1, H1_2, G1
 
 ## 1. Installation
